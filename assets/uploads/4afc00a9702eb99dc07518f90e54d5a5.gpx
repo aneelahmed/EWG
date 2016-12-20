@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="RouteTracker">
+	<trk>
+		<name>New Route</name>
+		<trkseg>
+			<trkpt lat="31.5811833" lon="74.409425">
+				<time>1481102178000</time>
+			</trkpt>
+			<trkpt lat="31.5815217" lon="74.4091217">
+				<time>1481102195000</time>
+			</trkpt>
+			<trkpt lat="31.5828733" lon="74.4097517">
+				<time>1481102214000</time>
+			</trkpt>
+			<trkpt lat="31.583885" lon="74.4094733">
+				<time>1481102240000</time>
+			</trkpt>
+			<trkpt lat="31.584065" lon="74.4089233">
+				<time>1481102255000</time>
+			</trkpt>
+			<trkpt lat="31.5835367" lon="74.380485">
+				<time>1481102895000</time>
+			</trkpt>
+			<trkpt lat="31.58371" lon="74.3803983">
+				<time>1481102906000</time>
+			</trkpt>
+			<trkpt lat="31.5838617" lon="74.3807633">
+				<time>1481102917000</time>
+			</trkpt>
+			<trkpt lat="31.584025" lon="74.3812383">
+				<time>1481102928000</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

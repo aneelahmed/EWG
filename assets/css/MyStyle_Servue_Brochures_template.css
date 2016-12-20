@@ -1,0 +1,136 @@
+/*----------------- Healping Styles START -----------------*/
+.myBorder{ border:1px solid;}
+.myheight_40px{	height: 40px; }
+.myheight_20px{	height: 40px; }
+.myheight_10px{	height: 20px; }
+.NoPadding { padding-left:0px !important; padding-right:0px !important;}
+.img-width{
+	padding-right: 0;
+	width: 75px;
+}
+.text-width{
+	padding-left: 5px;
+}
+
+/*----------------- Healping Styles START -----------------*/
+/*----------------- Home START -----------------*/
+.mybody
+{
+	background-image:url(../images/bg_pattrn.jpg);
+	background-repeat:repeat;	
+}
+.mybody img
+{
+	margin:0 auto;	
+}
+.myH2 {
+  font-size: 20px;
+  font-family: "Comic Sans MS";
+  color: rgb(38, 40, 97);
+  line-height: 2;
+  background-color:#FEE464;
+}
+.Main_menu
+{
+  background-color:#FEE464;
+}
+.Main_menu a
+{
+	font-size: 20px;
+	font-family: "Comic Sans MS";
+	color: rgb(38, 40, 97);
+	line-height: 2;
+}
+.myH3 {
+  font-size: 24px;
+  font-family: "Comic Sans MS";
+  color: rgb(172, 31, 36);
+  font-style: italic;
+  line-height: 1.2;
+  text-align:center;
+  margin-top:20px !important;
+  margin-top:0px !important;
+}
+.myAboutPara {
+  font-size: 15px;
+  font-family: "Comic Sans MS";
+  color: rgb(75, 73, 73);
+  font-style: italic;
+  line-height: 1.2;
+  text-align: center;
+}
+.myParaPrime {
+  font-size: 14px;
+  font-family: "Comic Sans MS";
+  color: rgb(75, 73, 73);
+  font-style: italic;
+}
+.myParaQoute {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+  color: rgb(212, 37, 95);
+  font-style: italic;
+  line-height: 0.001;
+}
+.myFooter
+{
+	background-color:#262861;	
+}
+.myFooter_menu a
+{	
+	color:#0679BA;
+	text-decoration:none;
+}
+.myFooter_menu a:hover
+{	
+	color:#27AAE1;
+}
+.myFooter_menu p
+{	
+	color:#27AAE1;
+}
+/*----------------- Home END -----------------*/
+/*----------------- Join START -----------------*/
+.myH2_join {
+  font-size: 25px;
+  font-family: "Comic Sans MS";
+  color: rgb(172, 31, 36);
+  margin-top:0px !important;
+}
+.myPara_join {
+  font-size: 16px;
+  font-family: "Comic Sans MS";
+  color: rgb(30, 30, 30);
+}
+.myH4_join {
+  font-size: 15px;
+  font-family: "Comic Sans MS";
+  color: rgb(30, 30, 30);
+  line-height: 1.8;
+  text-align:center;
+}
+.myhead_join {
+  font-size: 18px;
+  font-family: "Comic Sans MS";
+  color:#454545;
+  line-height: 1.5;
+}
+.mydetail_join {
+  font-size: 22px;
+  font-family: "Comic Sans MS";
+  color: rgb(39, 40, 98);
+  line-height: 1.5;
+}
+
+
+/*----------------- Join END -----------------*/
+
+.myForm_register
+{
+	box-shadow: 0px 0px 3px #3A3A3A;
+	background-color:white;
+}
+.myAlignLeft
+{
+	text-align:left !important;
+}

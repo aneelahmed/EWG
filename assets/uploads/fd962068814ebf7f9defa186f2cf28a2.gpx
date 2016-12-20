@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="RouteTracker">
+	<trk>
+		<name>New Route</name>
+		<trkseg>
+			<trkpt lat="37.455474" lon="-122.286382">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.456279" lon="-122.287566">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.457214" lon="-122.288613">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.458272" lon="-122.289464">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.459120" lon="-122.289954">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.460003" lon="-122.290335">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.461201" lon="-122.290631">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.462112" lon="-122.290696">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.463302" lon="-122.290727">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.464193" lon="-122.290774">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.465100" lon="-122.290885">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.465985" lon="-122.291093">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.466853" lon="-122.291390">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.467689" lon="-122.291781">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.468790" lon="-122.292442">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.469562" lon="-122.293037">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.470291" lon="-122.293706">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.471219" lon="-122.294657">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.471932" lon="-122.295367">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+			<trkpt lat="37.472636" lon="-122.296078">
+				<time>2016-11-03T11:03:02Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

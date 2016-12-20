@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="RouteTracker">
+	<trk>
+		<name>New Route</name>
+		<trkseg>
+			<trkpt lat="25.028036" lon="55.236776">
+				<time>2016-11-06T13:05:47Z</time>
+			</trkpt>
+			<trkpt lat="25.028705" lon="55.236266">
+				<time>2016-11-06T13:05:47Z</time>
+			</trkpt>
+			<trkpt lat="25.029196" lon="55.235901">
+				<time>2016-11-06T13:05:47Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

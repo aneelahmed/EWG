@@ -1,0 +1,156 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+	width: 100%;
+}
+body {
+	background: #eff3f6;
+}
+.login-page {
+  margin: 0 auto;
+  padding: 1% 0 0;
+  width: 500px;
+}
+.main-logo {
+	text-align: center;
+	width:70%;
+}
+.main-logo img{ width:100%;}
+.box {
+	background: #fefefe;
+	border: 1px solid #C3D4DB;
+	border-top: 1px;
+	-webkit-border-radius: 5px;
+	-moz-border-radius: 5px;
+	border-radius: 5px;
+	-moz-box-shadow: rgba(0,0,0,0.15) 0 0 1px;
+	-webkit-box-shadow: rgba(0,0,0,0.15) 0 0 1px;
+	box-shadow: rgba(0,0,0,0.15) 0 0 1px;
+	color: #444;
+	font: normal 12px/14px Arial, Helvetica, Sans-serif;
+	margin: 0 auto 30px;
+	overflow: hidden;
+}
+.box.login {
+	height: 400px;
+	margin: 0;
+	position: absolute;
+	right: 50px;
+	top: 75px;
+	width: 332px;
+}
+.boxBody {
+	background: #fefefe;
+	border-top: 1px solid #dde0e8;
+	padding: 10px 20px;
+}
+.boxBody h2{
+	font-size:30px;
+	padding: 20px 0;
+	border-bottom:1px solid #ccc;
+	text-align:center;
+}
+.box footer {
+	background: #eff4f6 none repeat scroll 0 0;
+	border-top: 1px solid #dde0e8;
+	height: 32px;
+	overflow: hidden;
+	padding: 22px 26px;
+	position: relative;
+	text-align: center;
+	top: 69px;
+}
+.box label {
+	display: block;
+	font: 14px/22px Arial, Helvetica, Sans-serif;
+	margin: 10px 0 0 6px;
+}
+.box footer label {
+	float: left;
+	margin: 4px 0 0;
+}
+.box footer input[type=checkbox] {
+	vertical-align: sub;
+ *vertical-align:middle;
+	margin-right: 10px;
+}
+.box input[type=text], .box input[type=password], .txtField, .cjComboBox {
+	border: 6px solid #F7F9FA;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	-moz-box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95a2a7 inset;
+	-webkit-box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95a2a7 inset;
+	box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.06) inset, 0 0 1px #95a2a7 inset;
+	margin: 3px 0 4px;
+	padding: 8px 6px;
+	width: 270px;
+	display: block;
+}
+.box input[type=text]:focus, .box input[type=password]:focus, .txtField:focus, .cjComboBox:focus {
+	border: 6px solid #f0f7fc;
+	-moz-box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.04) inset, 0 0 1px #0d6db6 inset;
+	-webkit-box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.04) inset, 0 0 1px #0d6db6 inset;
+	box-shadow: 2px 3px 3px rgba(0, 0, 0, 0.04) inset, 0 0 1px #0d6db6 inset;
+	color: #333;
+}
+.rLink {
+	padding: 0 6px 0 0;
+	font-size: 11px;
+	float: right;
+}
+.box a {
+	color: #999;
+	text-decoration:none;
+}
+.box a:hover, .box a:focus {
+	text-decoration: underline;
+}
+.box a:active {
+	color: #f84747;
+}
+.btnLogin {
+	background: #212662;
+	border: 1px solid #0c40ac;
+	color: #fff;
+	cursor: pointer;
+	font: bold 11px/14px Verdana, Tahomma, Geneva;
+	padding: 7px 21px;
+	text-shadow: 0 1px 0 rgba(0, 0, 0, 0.2);
+}
+.btnLogin:hover, .btnLogin:focus, .btnLogin:active {
+	background: #5868ed;
+}
+.btnLogin:active {
+	text-shadow: rgba(0,0,0,0.3) 0 -1px 0px;
+}
+footer#main {
+	position: fixed;
+	left: 0;
+	bottom: 10px;
+	text-align: center;
+	font: normal 11px/16px Arial, Helvetica, sans-serif;
+	width: 100%;
+}

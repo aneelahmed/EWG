@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="RouteTracker">
+	<trk>
+		<name>New Route</name>
+		<trkseg>
+			<trkpt lat="33.732599" lon="73.091102">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.732646" lon="73.091208">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.732702" lon="73.091298">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.732682" lon="73.091406">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.732667" lon="73.091516">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.732677" lon="73.091634">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.732702" lon="73.091746">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.732772" lon="73.091817">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.732836" lon="73.091919">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.732920" lon="73.091872">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.733116" lon="73.091717">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.733030" lon="73.091764">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.733008" lon="73.091891">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.733094" lon="73.091943">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.733134" lon="73.092043">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+			<trkpt lat="33.733045" lon="73.092156">
+				<time>2016-11-06T07:24:18Z</time>
+			</trkpt>
+		</trkseg>
+	</trk>
+</gpx>

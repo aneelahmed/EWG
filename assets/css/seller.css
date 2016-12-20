@@ -1,0 +1,368 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, embed, figure, figcaption, footer, header, hgroup, menu, nav, output, ruby, section, summary, time, mark, audio, video {
+
+	margin: 0;
+
+	padding: 0;
+
+	border: 0;
+
+	font-size: 100%;
+
+	font: inherit;
+
+	vertical-align: baseline;
+
+}
+
+/* HTML5 display-role reset for older browsers */
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+
+	display: block;
+
+}
+
+ol, ul {
+
+	list-style: none;
+
+}
+
+blockquote, q {
+
+	quotes: none;
+
+}
+
+blockquote:before, blockquote:after, q:before, q:after {
+
+	content: '';
+
+	content: none;
+
+}
+
+table {
+
+	border-collapse: collapse;
+
+	border-spacing: 0;
+
+	width: 100%;
+
+}
+
+body {
+
+	background: url(../imgs/reg-bg.jpg) no-repeat fixed center center / cover;
+
+}
+
+@font-face {
+
+	font-family: RobotoCondensed;
+
+	src: url(../fonts/RobotoCondensed.ttf);
+
+}
+
+.login-page {
+
+	width: 500px;
+
+	padding: 1% 0 0;
+
+	margin: 0 auto;
+
+}
+
+.login-page .main-logo {
+
+	text-align: center;
+
+	margin-bottom: 10px;
+
+}
+
+.login-form .wait {
+
+	margin-bottom: 20px;
+
+}
+
+.login-form .wait img {
+
+	margin-bottom: 20px;
+
+}
+
+.login-form .wait p {
+
+	color: #fff;
+
+	font-family: arial;
+
+	font-size: 22px;
+
+}
+
+.form {
+
+	background: url(../imgs/inner-bg.png) repeat top left;
+
+	border: 1px solid #6b86c8;
+
+	margin: 0 auto;
+
+	max-width: 450px;
+
+	padding: 25px;
+
+	position: relative;
+
+	text-align: center;
+
+	width: 500px;
+
+	min-height: 470px;
+
+	z-index: 1;
+
+}
+
+.form h2 {
+
+	color: #fff;
+
+	font-family: "Roboto", sans-serif;
+
+	font-size: 25px;
+
+	margin-bottom: 20px;
+
+	text-align: center;
+
+}
+
+.form input {
+
+	font-family: monospace;
+
+	outline: 0;
+
+	background: transparent;
+
+	width: 100%;
+
+	border: 0;
+
+	margin: 0 0 5px;
+
+	padding: 15px 15px 15px 45px;
+
+	box-sizing: border-box;
+
+	font-size: 18px;
+
+	border-bottom: 1px solid #a2baf1;
+
+	color: #dcdcdc;
+
+}
+
+.form input.name {
+
+	background: url(../imgs/user.png) no-repeat 0 7px;
+
+}
+
+.form input.email {
+
+	background: url(../imgs/mail.png) no-repeat 0 13px;
+
+}
+
+.form input.pass {
+
+	background: url(../imgs/pasword.png) no-repeat 0 7px;
+
+}
+
+.form input.date {
+
+	background: url(../imgs/date.png) no-repeat 0 7px;
+
+}
+
+.form input.c-num {
+
+	background: url(../imgs/contact.png) no-repeat 0 7px;
+
+}
+
+.form input.comp {
+
+	background: url(../imgs/company.png) no-repeat 0 12px;
+
+}
+
+.form input.logo-ico {
+
+	background: url(../imgs/logo-icon.png) no-repeat 0 12px;
+
+}
+
+.form input.detail {
+
+	background: url(../imgs/detail.png) no-repeat 0 12px;
+
+}
+
+.form input.trade {
+
+	background: url(../imgs/trade.png) no-repeat 0 14px;
+
+}
+
+.form input.location {
+
+	background: url(../imgs/location.png) no-repeat 0 7px;
+
+}
+
+.form input.timing {
+
+	background: url(../imgs/timing.png) no-repeat 0 11px;
+
+}
+
+
+.form .company-det span{ 
+	background: #144ed4;
+	color: #fff;
+	float: left;
+	font-family: arial;
+	font-size: 13px;
+	padding: 5px 15px;
+}
+
+.form .company-det input.upload {
+	cursor: pointer;
+	font-size: 20px;
+	left: 0;
+	margin: 0;
+	opacity: 0;
+	padding: 0;
+	position: absolute;
+    filter: alpha(opacity=0);
+}
+.form .company-det hr.bar{ float:left; width:100%; color:#fff;}
+
+.form input.file {
+
+	background: url(../imgs/file.png) no-repeat 4px 17px;
+
+}
+.form input.btnlgin{
+
+	font-family: "Roboto", sans-serif;
+
+	text-transform: uppercase;
+
+	outline: 0;
+
+	background: #fff;
+
+	width: 70%;
+
+	margin-top: 20px;
+
+	border: 0;
+
+	padding: 15px;
+
+	color: #1551db;
+
+	font-size: 14px;
+
+	-webkit-transition: all 0.3 ease;
+
+	transition: all 0.3 ease;
+
+	cursor: pointer;
+
+}
+.form select{
+	background: transparent none repeat scroll 0 0;
+	border: 1px solid #a2baf1;
+	color: #fff;
+	height: 2rem;
+	margin: 10px 0;
+	padding: 5px;
+	width: 100%;
+}
+.form select option{ color:#444;}
+.form textarea{
+	border-color: -moz-use-text-color -moz-use-text-color #ccc;
+	border-style: none none solid;
+	border-width: medium medium 1px;
+	color: #fff;
+	padding: 5px;
+	width: 98%;
+	background: transparent;
+	margin-bottom:10px;
+}
+.form button {
+
+	font-family: "Roboto", sans-serif;
+
+	text-transform: uppercase;
+
+	outline: 0;
+
+	background: #fff;
+
+	width: 70%;
+
+	margin-top: 20px;
+
+	border: 0;
+
+	padding: 15px;
+
+	color: #1551db;
+
+	font-size: 14px;
+
+	-webkit-transition: all 0.3 ease;
+
+	transition: all 0.3 ease;
+
+	cursor: pointer;
+
+}
+
+.form button:hover, .form button:active, .form button:focus {
+
+	background: #1551db;
+
+	color: #fff;
+
+}
+
+.form button.login {
+
+	margin-top: 100px;
+
+}
+
+#map_canvas{
+
+	float:left;
+
+	width:400px;
+
+	height:400px;
+
+}
+
